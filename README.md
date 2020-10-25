@@ -1,2 +1,1 @@
-# vutfit_iel
-1. Semestr VUT FIT
+## Semestrální projekt: 10/12 bodů
